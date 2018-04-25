@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"pass",
+				"password_error"
+			],
+			[
+				"ic",
+				"idcard_error"
+			],
+			[
+				"idca",
+				"idcard_error"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"cookies",
+				"cookie(\"products"
+			],
+			[
+				"JSON",
+				"JSON.stringify"
+			],
+			[
+				"_",
+				"_products"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"ex",
+				"expires"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"onmouse",
+				"onmouseup"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"getElementb",
+				"getElementsByClassName"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"a",
+				"arr2"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"document",
+				"document.write"
+			],
+			[
+				"docu",
+				"document.write"
+			],
+			[
+				"documnet",
+				"document.write"
+			],
+			[
+				"doc",
+				"document.write"
+			],
+			[
+				"s",
+				"sum_even"
+			],
+			[
+				"sum",
+				"sum_odd"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"_s",
+				"_Shuilv"
+			],
+			[
+				"_S",
+				"_Shuiju"
+			],
+			[
+				"mon",
+				"Mon"
+			],
+			[
+				"c",
+				"console.log(\"等于0"
+			],
+			[
+				"pr",
+				"prompt(\"输入一个整数"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"M",
+				"Math.random"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"trsif",
+				"transform-origin"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"align-",
+				"align-self"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"backr",
+				"background-image"
+			],
+			[
+				"fontsize",
+				"font-size"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"TRAN",
+				"transition"
+			],
+			[
+				"rotate",
+				"rotateY"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"trans",
+				"transform-origin"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"per",
+				"perspective-origin"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"incon",
+				"iconfont"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"psot",
+				"position"
+			],
+			[
+				"lis",
+				"lis"
+			],
+			[
+				"no",
+				"noArr"
+			],
+			[
+				"select",
+				"selectArr"
+			],
+			[
+				"I",
+				"iNum"
+			],
+			[
+				"mo",
+				"mousemove"
+			],
+			[
+				"t",
+				"timer"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"nen",
+				"none"
+			],
+			[
+				"wrap",
+				"wrap"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ul",
+				"url()"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"css",
+				"css($(\"#box"
+			],
+			[
+				"len",
+				"lenWidth"
+			],
+			[
+				"page",
+				"pageX"
+			],
+			[
+				"rate",
+				"rateY"
+			],
+			[
+				"middle",
+				"middleHeight"
+			],
+			[
+				"mid",
+				"middleWidth"
+			],
+			[
+				"le",
+				"lenHeight"
+			],
+			[
+				"big",
+				"bigWidth"
+			],
+			[
+				"midd",
+				"middle"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"n",
+				"nextIndex"
+			],
+			[
+				"net",
+				"next"
+			],
+			[
+				"next",
+				"nextIndex"
+			],
+			[
+				"cu",
+				"currentIndex"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"wb",
+				"wb_Start"
+			],
+			[
+				"b_",
+				"b_top"
+			],
+			[
+				"wra",
+				"wrap_boxHeight"
+			],
+			[
+				"wr",
+				"wrap_boxWidth"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"ja",
+				"javascript:void"
+			],
+			[
+				"sub",
+				"Submit"
+			],
+			[
+				"win",
+				"window.event"
+			],
+			[
+				"Su",
+				"Submit"
+			],
+			[
+				"o",
+				"onmouseup"
+			],
+			[
+				"small",
+				"small_left"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"sut",
+				"suitCard"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package→启用插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/js/day19/day19/demo1_放大镜.html",
+		"/C/Users/zhangxiaoyan/Desktop/毕业设计/node/sever.js",
+		"/F/WEB/node/router.js",
+		"/C/Users/zhangxiaoyan/Desktop/竞拍网.(黄杰圳 戴玉朔 卢旭)/ThinkPHP/Admin/Tpl/Notice/noticelist.html",
+		"/C/Users/zhangxiaoyan/Desktop/礼物/礼物/在笑你就点开我.html",
+		"/C/Users/zhangxiaoyan/Desktop/礼物/礼物/js/tools.js",
+		"/C/Users/zhangxiaoyan/Desktop/首次完成.html",
+		"/F/HTML5学习/第一阶段/day06/index.html",
+		"/F/HTML5学习/第一阶段/day14/index.html",
+		"/F/js/day03/index.html",
+		"/C/Users/zhangxiaoyan/Desktop/indd.html",
+		"/C/Users/zhangxiaoyan/Documents/Tencent Files/244077018/FileRecv/试试.html",
+		"/C/Users/zhangxiaoyan/Desktop/礼物/礼物/图像2.html",
+		"/C/Users/zhangxiaoyan/Desktop/index.html",
+		"/C/Users/zhangxiaoyan/Desktop/andriodWeiboClient/app/src/main/java/com/shaweibo/weibo/ui/picture/PictureFragment.java",
+		"/F/HTML5学习/第一阶段/day03/index.html",
+		"/C/Users/zhangxiaoyan/Desktop/andriodWeiboClient/app/src/main/res/menu/menu_new_post.xml",
+		"/F/第二阶段/day15/day15全/demo2_正则测试.html",
+		"/F/第二阶段/day15/day15/demo_正则表达式.html",
+		"/F/第二阶段/day15/day15/cart_购物车.html",
+		"/F/第二阶段/day15/day15/js/tools.js",
+		"/F/第二阶段/day14/day14/day14全/note.txt",
+		"/F/第二阶段/day15/day15/products_商品信息页面.html",
+		"/F/第二阶段/day15/day15全/js/tools.js",
+		"/F/第二阶段/day14/day14/note.txt",
+		"/F/第二阶段/day15/day15/note.txt",
+		"/F/第二阶段/day14/day14/day14全/demo2_简易购物车2.html",
+		"/F/第二阶段/day14/day14/day14全/cart_购物车.html",
+		"/F/第二阶段/day14/day14/day14全/demo_购物车.html",
+		"/F/第二阶段/day10/day10/js/Mytools.js",
+		"/F/第二阶段/day14/demo2_简易购物车2.html",
+		"/F/第二阶段/day14/demo_购物车.html",
+		"/F/第二阶段/day14/day14/day14全/products_商品信息页面.html",
+		"/F/第二阶段/day14/day14/day14全/js/tools.js",
+		"/F/js/day07/k cookie/例子/cookie练习/js/tools.js",
+		"/F/第二阶段/day14/demo_cookie.html",
+		"/F/第二阶段/day14/day14/day14/js/tools.js",
+		"/F/第二阶段/day11/js/tools.js",
+		"/F/第二阶段/day14/day14/demo1_cookie.html",
+		"/F/第二阶段/day12/demo_移动.html",
+		"/F/第二阶段/day12/day12/demo6_限定拖拽范围.html",
+		"/F/第二阶段/day12/note.txt",
+		"/F/第二阶段/day12/day12/js/tools.js",
+		"/F/第二阶段/day12/demo_获取属性值.html",
+		"/F/第二阶段/day12/demo2_元素宽度.html",
+		"/F/第二阶段/day10/day10/demo0_倒计时.html",
+		"/F/js/cd-h5-1611/JavaScript/day12/demo3_简单拖拽实现.html",
+		"/F/js/cd-h5-1611/JavaScript/day12/demo6_元素只能在窗口范围内拖拽.html",
+		"/F/js/day17/day17/demo1_水平方向匀速运动.html",
+		"/F/js/day17/day17/demo2_限定范围水平、垂直方向运动.html",
+		"/F/js/day17/area2_move.html",
+		"/F/js/day17/area_move.html",
+		"/F/js/day07/h 事件/事件例子/offset.html",
+		"/F/js/day07/h 事件/事件例子/随鼠标移动的方块.html",
+		"/F/第二阶段/day10/day10/demo1_scroll.html",
+		"/F/第二阶段/day12/demo1_获取CSS属性值.html",
+		"/F/第二阶段/day12/js/tools.js",
+		"/F/第二阶段/day10/day10/js/tools.js",
+		"/F/js/demo_lianxi.html",
+		"/F/HTML5学习/第二阶段/demo_纸牌.html",
+		"/F/HTML5学习/第二阶段/demo_随机点名.html",
+		"/F/第二阶段/day10/day10/demo4_测试函数封装.html",
+		"/F/第二阶段/day10/day10/demo_封装.html",
+		"/F/第二阶段/day07/demo4_排序算法.html",
+		"/F/js/day07/g BOM DOM对象/BOM/课件/demo7.html",
+		"/F/js/day07/g BOM DOM对象/BOM/课件/demo1.html",
+		"/F/js/day07/g BOM DOM对象/BOM/课件/demo2.html",
+		"/F/js/day06数组Array/demo1.html",
+		"/F/js/day06数组Array/demo2.html",
+		"/F/js/day06数组Array/demo3.html",
+		"/F/js/day05/demo7_作用域.html",
+		"/F/js/day05/demo9_定义函数方式.html",
+		"/F/HTML5学习/index.html",
+		"/E/cd-201701-阶段2/day04/demo_函数.html",
+		"/E/阶段2/day07/d 函数/例子/04函数/demo8_匿名函数.html",
+		"/E/cd-201701-阶段2/day02/day02/demo6_判断输入年月的天数.html",
+		"/E/阶段2/day05函数下/index.html",
+		"/E/阶段2/day05函数下/day5.html",
+		"/E/cd-201701-阶段2/day03/demo_循环.html",
+		"/E/阶段2/day07/c  循环结构/例子/03循环结构/水仙花.html",
+		"/E/阶段2/day07/c  循环结构/例子/03循环结构/99乘法表.html",
+		"/E/阶段2/day07/c  循环结构/例子/03循环结构/计算30的阶乘.html",
+		"/E/cd-201701-阶段2/demo_练习.html",
+		"/E/阶段2/day02/index.html",
+		"/E/阶段2/day03/index.html",
+		"/E/cd-201701-阶段2/day03/day03/demo4_for循环.html",
+		"/E/cd-201701-阶段2/day03/day03/demo5_示例.html",
+		"/D/阶段二/练习 阶段二/day2/闰年平年.html",
+		"/D/阶段二/随堂代码/day02/demo6_判断输入年月的天数.html",
+		"/D/阶段二/练习 阶段二/day2/demo.html",
+		"/D/阶段二/课件/day01/note.txt",
+		"/D/阶段二/随堂代码/day2/demo2_if.html",
+		"/E/BaiduNetdiskDownload/Cache/千峰/阶段二/资料/day01/demo1_第一个JS程序.html",
+		"/D/阶段二/课件/day01/demo3_数据类型转换.html",
+		"/D/阶段二/课件/day01/demo2_变量、运算符.html",
+		"/D/阶段二/课件/day01/demo1_第一个JS程序.html",
+		"/D/阶段二/课件/day01/js/outer.js",
+		"/D/千峰/李逸然/pc/index.html",
+		"/D/千峰/李逸然/pc/index.css",
+		"/D/千峰/随堂代码/day08/idea/index.html",
+		"/D/练习/day17/blog_text/index.html",
+		"/D/练习/day15/weixin.html",
+		"/D/千峰/随堂代码/day17/blog_test/index.html",
+		"/D/练习/day17/blog_text/overflow.html",
+		"/D/练习/day16/zhifubao.html",
+		"/D/练习/day15/shaizi.html",
+		"/D/练习/day15/flex.html",
+		"/D/练习/day16/image/iconfont/iconfont.css",
+		"/D/千峰/随堂代码/day08/idea/css/style.css",
+		"/D/练习/day16/image/iconfont/index.css",
+		"/D/作业/day14/jiqimao/jiqimao.html",
+		"/D/作业/day14/xiangce/xiangce.html",
+		"/D/作业/day14/zhengfangti/zft.html",
+		"/D/作业/day14/zhengfangti/beimian.html",
+		"/D/作业/day14/xiangce/image/img1.jpg",
+		"/D/作业/day13/2d/2d.html",
+		"/D/作业/day13/shubiaoxuanting.html",
+		"/D/作业/day13/baiyechuang.html",
+		"/D/千峰/作业/day13/鼠标悬停效果/img/image01.jpg",
+		"/D/作业/day13/img/triangles.png",
+		"/D/作业/day12/css3.html",
+		"/D/作业/day12/font.html",
+		"/C/Users/qianfeng/Desktop/千峰/day12/css3.html",
+		"/C/Users/qianfeng/Desktop/千峰/day12/css3.hml",
+		"/C/Users/qianfeng/Desktop/千峰/day11/buju.html",
+		"/E/阶段2/day27/index_选择器.html",
+		"/E/阶段2/day26/day11/老师练习.html",
+		"/E/阶段2/day26/dome_轮播图.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			";\n",
+			"0",
+			"100px",
+			";\n",
+			"block",
+			" ('')",
+			"getElementBy",
+			"2400px",
+			">\n",
+			"block",
+			"none",
+			";\n",
+			"bottom",
+			"		<li></li>\n		<li></li>\n		<li></li>\n		<li></li>\n		<li></li>\n		<li></li>",
+			"b_top",
+			"';\n",
+			" \"+",
+			"1",
+			"value",
+			"ensp",
+			"case 1:alert(\"这个月有31天\");break;\n				case 4,:alert(\"这个月有30天\");break;",
+			";\n",
+			"case 1:alert(\"这个月有31天\");break;",
+			"1996",
+			"<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>\n	<script></script>",
+			"script",
+			"\"></",
+			"script",
+			"type",
+			" type=\"text/java",
+			"script",
+			"li",
+			"sadsa",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.inc.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
